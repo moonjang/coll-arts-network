@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Animated GIF Example</title>
+</head>
+<body>
+    <h1>Welcome to My Animated GIF Page</h1>
+    <p>Here's a cool animated GIF:</p>
+    
+    <img src="your-animation.gif" alt="Animated GIF" width="300" height="200">
+    
+    <p>Feel free to explore the rest of the page!</p>
+</body>
+</html>
